@@ -9,7 +9,7 @@ const Main = styled.main`
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #00bcd4;
+  background: #3f51b5;
 `;
 
 const MainComponent = () => {

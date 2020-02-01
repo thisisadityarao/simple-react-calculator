@@ -12,6 +12,7 @@ const Screen = styled.div`
   align-items: center;
   font-weight: 700;
   font-size: 1.4rem;
+  outline: 1px solid #fff;
 `;
 
 const Display = (props) => {

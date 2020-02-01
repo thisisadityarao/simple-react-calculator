@@ -10,6 +10,8 @@ const Header = styled.header`
 
 const Heading = styled.h1`
   padding-top: 20px;
+  color: #444;
+  text-transform: uppercase;
 `;
 
 const HeaderComponent = () => {
